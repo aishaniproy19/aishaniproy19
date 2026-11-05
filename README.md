@@ -33,26 +33,6 @@ I believe data is more than just numbers — it's a powerful tool for understand
 
 ---
 
-## 💻 Featured Projects
-
-### 1. 📊 PPC Performance Dashboard
-**Power BI | Marketing Analytics**
-
-- Developed an interactive dashboard analyzing **36 marketing campaigns and 6,800+ data records**.
-- Created DAX measures to track CTR, CPC, and ROAS.
-- Built a Cost-vs-Return Efficiency Matrix.
-- Identified **9 high-performing campaigns** for scaling and optimization.
-
-### 2. 🌎 California Air Quality Analysis
-**Python | Exploratory Data Analysis**
-
-- Analyzed EPA ozone datasets using Pandas and NumPy.
-- Identified geographical and temporal air-quality patterns.
-- Developed geospatial heat maps to highlight persistent high-risk zones.
-- Investigated weekend-versus-weekday variations in air quality.
-
----
-
 ## 💼 Professional Experience
 
 **Data Analyst Intern | Atlassian**  
@@ -78,43 +58,6 @@ I believe data is more than just numbers — it's a powerful tool for understand
 
 ---
 
-## 🎓 Education
 
-**Indian Institute of Technology Kharagpur**  
-B.Tech — Mechanical Engineering | 2021–2025  
-CGPA: **9.37/10**
 
-**St. Paul's School | CBSE**  
-Senior Secondary (Class XII) | **97.85%**
 
-**St. Joseph's School | ICSE**  
-Secondary Education (Class X) | **10/10 CGPA**
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to connecting with professionals, exploring interesting datasets, collaborating on analytical projects, and discussing opportunities in Data Analytics, Business Analytics, and Market Research.
-
-📧 **Email:** royparnasree19@gmail.com
-
----
-
-### 💡 My Philosophy
-
-*"Good decisions come from good data. Great decisions come from understanding what the data is telling you."*
-
-Thanks for visiting my profile! Feel free to explore my repositories. ⭐<!--
-**aishaniproy19/aishaniproy19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
