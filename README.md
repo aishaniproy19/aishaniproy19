@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Aishani Roy!
 
-### 📊 Data Analyst | Business Analyst | Market Analyst
+### 📊 Data Analyst
 **Turning Data into Insights. Insights into Decisions.**
 
 I'm a Mechanical Engineering graduate from **IIT Kharagpur**, with a strong interest in Data Analytics, Business Intelligence, and Market Research. Having worked as a Data Analyst Intern at **Atlassian**, I enjoy transforming raw datasets into meaningful insights, identifying performance trends, and translating analytical findings into actionable business recommendations.
